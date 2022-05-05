@@ -1,0 +1,126 @@
+c:\users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.exe.config
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.exe
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.pdb
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Properties.Resources.resources
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.Cache
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.exe
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.pdb
+C:\Users\krcsa\Documents\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.csprojResolveAssemblyReference.cache
+C:\Users\krcsa\Documents\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Form2.resources
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.exe.config
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.exe
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.pdb
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.exe
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.pdb
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.csprojResolveAssemblyReference.cache
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Form2.resources
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Properties.Resources.resources
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.Cache
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\bin\Debug\Seri Port.exe.config
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\bin\Debug\Seri Port.exe
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\bin\Debug\Seri Port.pdb
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri Port.csprojResolveAssemblyReference.cache
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri_Port.Properties.Resources.resources
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.Cache
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri Port.csproj.CoreCompileInputs.cache
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri Port.exe
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri Port.pdb
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\bin\Debug\Seri Port.exe.config
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\bin\Debug\Seri Port.exe
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\bin\Debug\Seri Port.pdb
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri Port.csprojResolveAssemblyReference.cache
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri_Port.Properties.Resources.resources
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.Cache
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri Port.csproj.CoreCompileInputs.cache
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri Port.exe
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri Port.pdb
+D:\Dersler\Çok Disiplinli Tasarım\Çalışma\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\Seri Port.exe.config
+D:\Dersler\Çok Disiplinli Tasarım\Çalışma\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\Seri Port.exe
+D:\Dersler\Çok Disiplinli Tasarım\Çalışma\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\Seri Port.pdb
+D:\Dersler\Çok Disiplinli Tasarım\Çalışma\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri Port.csprojAssemblyReference.cache
+D:\Dersler\Çok Disiplinli Tasarım\Çalışma\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri_Port.Form1.resources
+D:\Dersler\Çok Disiplinli Tasarım\Çalışma\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri_Port.Properties.Resources.resources
+D:\Dersler\Çok Disiplinli Tasarım\Çalışma\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.cache
+D:\Dersler\Çok Disiplinli Tasarım\Çalışma\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri Port.csproj.CoreCompileInputs.cache
+D:\Dersler\Çok Disiplinli Tasarım\Çalışma\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri Port.exe
+D:\Dersler\Çok Disiplinli Tasarım\Çalışma\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri Port.pdb
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri Port.csprojAssemblyReference.cache
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.cache
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri Port.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\DnsClient.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\SharpCompress.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\System.Buffers.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\DnsClient.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\System.Buffers.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Seri Port.csproj.CopyComplete
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\Google.Protobuf.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\MySql.Data.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\Renci.SshNet.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\System.Memory.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\Zstandard.Net.dll
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\Google.Protobuf.pdb
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\Google.Protobuf.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\MySql.Data.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\Renci.SshNet.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\System.Memory.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\Client_Side.Properties.Resources.resources
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\CDTP Project Client Side.exe.config
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\CDTP Project Client Side.exe
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\bin\Debug\CDTP Project Client Side.pdb
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\CDTP Project Client Side.exe
+C:\Users\Neo\Desktop\CSharp_SeriPort_Haberlesmesi-master\CSharp_SeriPort_Haberlesmesi-master\Seri Port\obj\Debug\CDTP Project Client Side.pdb
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\CDTP Project Client Side.exe.config
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\CDTP Project Client Side.exe
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\CDTP Project Client Side.pdb
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\DnsClient.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\Google.Protobuf.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\MySql.Data.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\Renci.SshNet.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\SharpCompress.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\System.Buffers.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\System.Memory.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\Zstandard.Net.dll
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\DnsClient.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\Google.Protobuf.pdb
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\Google.Protobuf.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\MySql.Data.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\Renci.SshNet.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\System.Buffers.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\System.Memory.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\obj\Debug\Seri Port.csprojAssemblyReference.cache
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\obj\Debug\Client_Side.Properties.Resources.resources
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.cache
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\obj\Debug\Seri Port.csproj.CoreCompileInputs.cache
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\obj\Debug\Seri Port.csproj.CopyComplete
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\obj\Debug\CDTP Project Client Side.exe
+C:\Users\Neo\Desktop\ÇDTP Project\CDTP_Project_Client_Side\Seri Port\obj\Debug\CDTP Project Client Side.pdb
